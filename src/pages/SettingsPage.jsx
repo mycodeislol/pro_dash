@@ -1,0 +1,3 @@
+import useProductStore from '../store/useProductStore'
+import useTheme from '../store/useTheme'
+export default function SettingsPage(){ const { products } = useProductStore(); const { theme, toggle } = useTheme(); return (<section className='mt-6'><div className='max-w-md card p-6 rounded-2xl shadow-sm border'><h1 className='text-2xl font-semibold'>Settings</h1><p className='text-gray-600 mt-2'>Cached products: {products?.length ?? 0}</p><p className='text-gray-500 text-sm mt-3'>Theme: {theme}</p><button onClick={toggle} className='mt-3 px-3 py-1 bg-sky-50 dark:bg-sky-800 rounded'>Toggle theme</button></div></section>) }

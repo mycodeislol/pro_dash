@@ -1,0 +1,727 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nova 2000",
+      "price": 236.22,
+      "category": "Accessories",
+      "stock": 136,
+      "rating": 2.8,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=1"
+    },
+    {
+      "id": 2,
+      "name": "Nova Mini",
+      "price": 1349.78,
+      "category": "Audio",
+      "stock": 174,
+      "rating": 4.6,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=2"
+    },
+    {
+      "id": 3,
+      "name": "Pulse S",
+      "price": 856.3,
+      "category": "Audio",
+      "stock": 125,
+      "rating": 2.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=3"
+    },
+    {
+      "id": 4,
+      "name": "Echo Pro",
+      "price": 2199,
+      "category": "Accessories",
+      "stock": 35,
+      "rating": 2.5,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=4"
+    },
+    {
+      "id": 5,
+      "name": "Lumen Pro",
+      "price": 2265.39,
+      "category": "Wearables",
+      "stock": 72,
+      "rating": 2.8,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=5"
+    },
+    {
+      "id": 6,
+      "name": "Nova 2000",
+      "price": 2279.65,
+      "category": "Smart Home",
+      "stock": 244,
+      "rating": 3.2,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=6"
+    },
+    {
+      "id": 7,
+      "name": "Nova 2000",
+      "price": 871.79,
+      "category": "Gaming",
+      "stock": 105,
+      "rating": 4.6,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=7"
+    },
+    {
+      "id": 8,
+      "name": "Flux One",
+      "price": 51.12,
+      "category": "Office",
+      "stock": 222,
+      "rating": 4.2,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=8"
+    },
+    {
+      "id": 9,
+      "name": "Prime Max",
+      "price": 1311.11,
+      "category": "Accessories",
+      "stock": 191,
+      "rating": 3.8,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=9"
+    },
+    {
+      "id": 10,
+      "name": "Pulse Pro",
+      "price": 2285.84,
+      "category": "Outdoor",
+      "stock": 87,
+      "rating": 3.3,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=10"
+    },
+    {
+      "id": 11,
+      "name": "Flux Mini",
+      "price": 2212.11,
+      "category": "Gaming",
+      "stock": 198,
+      "rating": 3.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=11"
+    },
+    {
+      "id": 12,
+      "name": "Vertex X",
+      "price": 488.87,
+      "category": "Wearables",
+      "stock": 186,
+      "rating": 2.5,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=12"
+    },
+    {
+      "id": 13,
+      "name": "Vertex Plus",
+      "price": 1026.18,
+      "category": "Office",
+      "stock": 30,
+      "rating": 4.1,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=13"
+    },
+    {
+      "id": 14,
+      "name": "Lumen Plus",
+      "price": 1369.54,
+      "category": "Furniture",
+      "stock": 78,
+      "rating": 5,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=14"
+    },
+    {
+      "id": 15,
+      "name": "Lumen Mini",
+      "price": 1884.09,
+      "category": "Electronics",
+      "stock": 5,
+      "rating": 2.8,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=15"
+    },
+    {
+      "id": 16,
+      "name": "Zen X",
+      "price": 655.78,
+      "category": "Audio",
+      "stock": 139,
+      "rating": 4.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=16"
+    },
+    {
+      "id": 17,
+      "name": "Echo X",
+      "price": 289.38,
+      "category": "Wearables",
+      "stock": 261,
+      "rating": 3.4,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=17"
+    },
+    {
+      "id": 18,
+      "name": "Aero Pro",
+      "price": 1094.34,
+      "category": "Electronics",
+      "stock": 274,
+      "rating": 3.4,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=18"
+    },
+    {
+      "id": 19,
+      "name": "Flux Mini",
+      "price": 92.26,
+      "category": "Audio",
+      "stock": 134,
+      "rating": 4.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=19"
+    },
+    {
+      "id": 20,
+      "name": "Nova Z",
+      "price": 850.38,
+      "category": "Audio",
+      "stock": 12,
+      "rating": 4.1,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=20"
+    },
+    {
+      "id": 21,
+      "name": "Pulse Mini",
+      "price": 179.33,
+      "category": "Furniture",
+      "stock": 190,
+      "rating": 4.2,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=21"
+    },
+    {
+      "id": 22,
+      "name": "Aero X",
+      "price": 1900,
+      "category": "Accessories",
+      "stock": 275,
+      "rating": 3.3,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=22"
+    },
+    {
+      "id": 23,
+      "name": "Orbit Mini",
+      "price": 933.85,
+      "category": "Office",
+      "stock": 172,
+      "rating": 3.8,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=23"
+    },
+    {
+      "id": 24,
+      "name": "Pulse Mini",
+      "price": 1091.81,
+      "category": "Furniture",
+      "stock": 232,
+      "rating": 4.2,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=24"
+    },
+    {
+      "id": 25,
+      "name": "Vertex Max",
+      "price": 2180.27,
+      "category": "Gaming",
+      "stock": 155,
+      "rating": 3.6,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=25"
+    },
+    {
+      "id": 26,
+      "name": "Nova S",
+      "price": 1313.55,
+      "category": "Office",
+      "stock": 263,
+      "rating": 3.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=26"
+    },
+    {
+      "id": 27,
+      "name": "Vertex Z",
+      "price": 279.85,
+      "category": "Audio",
+      "stock": 115,
+      "rating": 4.7,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=27"
+    },
+    {
+      "id": 28,
+      "name": "Vertex Pro",
+      "price": 693.94,
+      "category": "Office",
+      "stock": 124,
+      "rating": 3,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=28"
+    },
+    {
+      "id": 29,
+      "name": "Vertex 2000",
+      "price": 1007.46,
+      "category": "Office",
+      "stock": 41,
+      "rating": 4.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=29"
+    },
+    {
+      "id": 30,
+      "name": "Flux Plus",
+      "price": 1900.13,
+      "category": "Electronics",
+      "stock": 99,
+      "rating": 3.2,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=30"
+    },
+    {
+      "id": 31,
+      "name": "Zen Pro",
+      "price": 1508.25,
+      "category": "Wearables",
+      "stock": 174,
+      "rating": 3.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=31"
+    },
+    {
+      "id": 32,
+      "name": "Pulse Z",
+      "price": 355.91,
+      "category": "Gaming",
+      "stock": 252,
+      "rating": 4.3,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=32"
+    },
+    {
+      "id": 33,
+      "name": "Nova 2000",
+      "price": 1790.13,
+      "category": "Smart Home",
+      "stock": 248,
+      "rating": 3.4,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=33"
+    },
+    {
+      "id": 34,
+      "name": "Zen Z",
+      "price": 2313.9,
+      "category": "Smart Home",
+      "stock": 3,
+      "rating": 4.7,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=34"
+    },
+    {
+      "id": 35,
+      "name": "Prime Max",
+      "price": 871.62,
+      "category": "Smart Home",
+      "stock": 62,
+      "rating": 4.2,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=35"
+    },
+    {
+      "id": 36,
+      "name": "Vertex Max",
+      "price": 917.37,
+      "category": "Accessories",
+      "stock": 161,
+      "rating": 3.4,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=36"
+    },
+    {
+      "id": 37,
+      "name": "Lumen One",
+      "price": 2032.42,
+      "category": "Home",
+      "stock": 92,
+      "rating": 3.5,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=37"
+    },
+    {
+      "id": 38,
+      "name": "Nova Mini",
+      "price": 950.83,
+      "category": "Outdoor",
+      "stock": 89,
+      "rating": 4.6,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=38"
+    },
+    {
+      "id": 39,
+      "name": "Echo One",
+      "price": 191.51,
+      "category": "Outdoor",
+      "stock": 62,
+      "rating": 4.8,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=39"
+    },
+    {
+      "id": 40,
+      "name": "Flux One",
+      "price": 156.18,
+      "category": "Accessories",
+      "stock": 26,
+      "rating": 4,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=40"
+    },
+    {
+      "id": 41,
+      "name": "Orbit Pro",
+      "price": 1174.56,
+      "category": "Audio",
+      "stock": 124,
+      "rating": 4.1,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=41"
+    },
+    {
+      "id": 42,
+      "name": "Orbit Max",
+      "price": 1415.66,
+      "category": "Audio",
+      "stock": 127,
+      "rating": 4.9,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=42"
+    },
+    {
+      "id": 43,
+      "name": "Lumen Z",
+      "price": 1445.9,
+      "category": "Outdoor",
+      "stock": 172,
+      "rating": 4.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=43"
+    },
+    {
+      "id": 44,
+      "name": "Pulse Pro",
+      "price": 69.38,
+      "category": "Gaming",
+      "stock": 67,
+      "rating": 3.7,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=44"
+    },
+    {
+      "id": 45,
+      "name": "Nova Max",
+      "price": 2495.37,
+      "category": "Furniture",
+      "stock": 166,
+      "rating": 4.7,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=45"
+    },
+    {
+      "id": 46,
+      "name": "Zen X",
+      "price": 1169.25,
+      "category": "Smart Home",
+      "stock": 147,
+      "rating": 4.3,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=46"
+    },
+    {
+      "id": 47,
+      "name": "Nova One",
+      "price": 1830.01,
+      "category": "Home",
+      "stock": 32,
+      "rating": 4.7,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=47"
+    },
+    {
+      "id": 48,
+      "name": "Orbit S",
+      "price": 2488.67,
+      "category": "Audio",
+      "stock": 217,
+      "rating": 2.6,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=48"
+    },
+    {
+      "id": 49,
+      "name": "Nova Max",
+      "price": 1690.95,
+      "category": "Home",
+      "stock": 23,
+      "rating": 3.2,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=49"
+    },
+    {
+      "id": 50,
+      "name": "Pulse Z",
+      "price": 2102.3,
+      "category": "Outdoor",
+      "stock": 255,
+      "rating": 4.7,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=50"
+    },
+    {
+      "id": 51,
+      "name": "Lumen Plus",
+      "price": 720.47,
+      "category": "Wearables",
+      "stock": 52,
+      "rating": 3.6,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=51"
+    },
+    {
+      "id": 52,
+      "name": "Flux Z",
+      "price": 712.66,
+      "category": "Home",
+      "stock": 266,
+      "rating": 4.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=52"
+    },
+    {
+      "id": 53,
+      "name": "Aero Mini",
+      "price": 1027.9,
+      "category": "Gaming",
+      "stock": 56,
+      "rating": 2.7,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=53"
+    },
+    {
+      "id": 54,
+      "name": "Echo Mini",
+      "price": 1302.88,
+      "category": "Furniture",
+      "stock": 252,
+      "rating": 2.8,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=54"
+    },
+    {
+      "id": 55,
+      "name": "Zen Plus",
+      "price": 2431.55,
+      "category": "Home",
+      "stock": 106,
+      "rating": 2.7,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=55"
+    },
+    {
+      "id": 56,
+      "name": "Nova X",
+      "price": 1042.31,
+      "category": "Audio",
+      "stock": 280,
+      "rating": 2.6,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=56"
+    },
+    {
+      "id": 57,
+      "name": "Zen Mini",
+      "price": 1753.09,
+      "category": "Furniture",
+      "stock": 155,
+      "rating": 2.8,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=57"
+    },
+    {
+      "id": 58,
+      "name": "Vertex Plus",
+      "price": 1298.43,
+      "category": "Audio",
+      "stock": 78,
+      "rating": 3.7,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=58"
+    },
+    {
+      "id": 59,
+      "name": "Echo Plus",
+      "price": 1286.17,
+      "category": "Accessories",
+      "stock": 200,
+      "rating": 3.9,
+      "featured": false,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=59"
+    },
+    {
+      "id": 60,
+      "name": "Echo Pro",
+      "price": 2459.5,
+      "category": "Gaming",
+      "stock": 21,
+      "rating": 3.2,
+      "featured": true,
+      "image": "https://source.unsplash.com/collection/190727/800x600?sig=60"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "john@example.com",
+      "password": "password",
+      "name": "John Doe"
+    },
+    {
+      "name": "Sarthak",
+      "email": "sarthak@abc.com",
+      "password": "abc123",
+      "id": 2
+    }
+  ],
+  "analytics": {
+    "totalRevenue": 159239,
+    "activeUsers": 6962,
+    "products": 60,
+    "salesSeries": [
+      {
+        "month": "Dec 2024",
+        "sales": 17585,
+        "orders": 268
+      },
+      {
+        "month": "Jan 2025",
+        "sales": 6128,
+        "orders": 299
+      },
+      {
+        "month": "Feb 2025",
+        "sales": 17076,
+        "orders": 772
+      },
+      {
+        "month": "Mar 2025",
+        "sales": 20081,
+        "orders": 1308
+      },
+      {
+        "month": "Apr 2025",
+        "sales": 2570,
+        "orders": 961
+      },
+      {
+        "month": "May 2025",
+        "sales": 19067,
+        "orders": 772
+      },
+      {
+        "month": "Jun 2025",
+        "sales": 11461,
+        "orders": 792
+      },
+      {
+        "month": "Jul 2025",
+        "sales": 8991,
+        "orders": 849
+      },
+      {
+        "month": "Aug 2025",
+        "sales": 3547,
+        "orders": 266
+      },
+      {
+        "month": "Aug 2025",
+        "sales": 18663,
+        "orders": 244
+      },
+      {
+        "month": "Sep 2025",
+        "sales": 21425,
+        "orders": 1410
+      },
+      {
+        "month": "Oct 2025",
+        "sales": 12645,
+        "orders": 219
+      }
+    ],
+    "categoryDistribution": [
+      {
+        "name": "Electronics",
+        "value": 1419
+      },
+      {
+        "name": "Wearables",
+        "value": 471
+      },
+      {
+        "name": "Furniture",
+        "value": 837
+      },
+      {
+        "name": "Home",
+        "value": 418
+      },
+      {
+        "name": "Outdoor",
+        "value": 907
+      },
+      {
+        "name": "Audio",
+        "value": 308
+      },
+      {
+        "name": "Accessories",
+        "value": 1023
+      },
+      {
+        "name": "Gaming",
+        "value": 337
+      },
+      {
+        "name": "Office",
+        "value": 60
+      },
+      {
+        "name": "Smart Home",
+        "value": 382
+      }
+    ]
+  }
+}

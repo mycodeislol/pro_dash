@@ -1,0 +1,2 @@
+import useAuth from '../store/useAuth'
+export default function ProfilePage(){ const { user } = useAuth(); if(!user) return <p className='text-center mt-6'>You are not logged in. <a href='/auth' className='text-sky-600'>Login</a></p>; return (<section className='mt-6'><div className='max-w-md card p-6 rounded-2xl shadow-sm border'><h1 className='text-2xl font-semibold'>Account</h1><p className='text-gray-600 mt-2'>Name: {user.name}</p><p className='text-gray-600'>Email: {user.email}</p></div></section>) }
