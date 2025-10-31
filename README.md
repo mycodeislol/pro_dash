@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# pro_dash is a modern multi-page product dashboard built with **React + Vite + Tailwind CSS**.  
+
+# pro_dash
+A modern multi-page product dashboard built with **React + Vite + Tailwind CSS**.  
 It features data visualization, smooth animations, authentication, and frontend caching — all in one elegant interface.
 
 ---
